@@ -62,7 +62,7 @@ Screenshots
 ![Subquery](Screenshots/SUBQUERY_output.png)
 
 # WHERE + Group BY Output
-![WHERE + GROUP BY](Screenshots/WHERE + GROUP BY_output.png)
+![WHEREGROUPBY](Screenshots/WHEREGROUPBY_output.png)
 
 Outcome
 
