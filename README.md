@@ -40,7 +40,29 @@ Key Analysis Performed
 
 Screenshots
 
-All query outputs are provided.
+# Average Query Output
+![Average](Screenshots/AVERAGE_output.png)
+
+# Group By Output
+![Group By](Screenshots/GROUP_BY_output.png)
+
+# Inner Join Query Output
+![Inner Join](Screenshots/INNER_JOIN_output.png)
+
+# Left Join Output
+![Left Join](Screenshots/LEFT_JOIN_output.png)
+
+# Right Join Query Output
+![Right Join](Screenshots/RIGHT_JOIN_output.png)
+
+# Select Query Output
+![Select](Screenshots/SELECT_output.png)
+
+# Subquery Output
+![Subquery](Screenshots/SUBQUERY_output.png)
+
+# WHERE + Group BY Output
+![WHERE + GROUP BY](Screenshots/WHERE + GROUP BY_output.png)
 
 Outcome
 
